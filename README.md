@@ -2,7 +2,7 @@
 
 A repository to ask [@damondouglas](https://www.linkedin.com/in/damondouglas) anything.
 
-I work as a pharmacist at a psychiatric hospital by day and code for fun-ish at night.  Building a real app which I hope will grow up and see the world one day.  My dream is that one day healthcare will embrace the modern Web.
+I work as a pharmacist at a psychiatric hospital by day and code for fun-ish at night.  Building a real app which I hope will grow up and see the world one day.  My dream is that healthcare will finally embrace the modern Web.
 
 ### Ask a question
 
